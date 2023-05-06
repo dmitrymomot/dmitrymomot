@@ -1,16 +1,14 @@
-### Hi there 👋
+## Bookmarks
 
-<!--
-**dmitrymomot/dmitrymomot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Go (golang) packages:
 
-Here are some ideas to get you started:
+- [go-app](https://github.com/dmitrymomot/go-app) - golang template for quick start a new application.
+- [go-utils](https://github.com/dmitrymomot/go-utils) - some useful helpers I collect for years and use in each project.
+- [go-pkg](https://github.com/dmitrymomot/go-pkg) - my another collection of code parts to speed up development, for example, HTTP server with a graceful shutdown, cqrs facade, etc.
+- [oauth2-server](https://github.com/dmitrymomot/oauth2-server) - this is a simple OAuth2 server implementation in Go with some useful buns such as sign-in/sign-up/password recovery flows, API to manage user data and clients, token revocation, and introspection.
+- [binder](https://github.com/dmitrymomot/binder) - HTTP request data binder (json, form data, query, file from multipart form).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Theory:
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - this is a basic layout for Go application projects. Has translations to 10+ languages.
+- [Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - there are several data structures and algorithms implemented in Go.
+- [System Design Interview](https://github.com/dmitrymomot/system-design-interview) - system design interview tips. This repository only teaches you how to handle the system design interview with a systematic approach in a short time.
