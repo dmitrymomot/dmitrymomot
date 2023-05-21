@@ -13,6 +13,8 @@
 - [Golang project layout](https://github.com/golang-standards/project-layout) - this is a basic layout for Go application projects. Has translations to 10+ languages.
 - [Data Structures and Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - there are several data structures and algorithms implemented in Go.
 - [System Design Interview](https://github.com/dmitrymomot/system-design-interview) - system design interview tips. This repository only teaches you how to handle the system design interview with a systematic approach in a short time.
+- [The Algorithms](https://github.com/TheAlgorithms) - algorithms implementation in different languages, including [go](https://github.com/TheAlgorithms/Go).
+- [roadmap.sh](https://roadmap.sh) - is a community effort to create roadmaps, guides, and other educational content to help guide developers in picking up the path and guiding their learnings.
 
 #### Tools:
 
