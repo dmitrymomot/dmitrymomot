@@ -27,3 +27,12 @@
 #### Made in Ukraine 🇺🇦 
 - [chernivtsijs/made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) - curating the best projects that were made and heavily contributed to by Ukrainian developers.
 - [collections/made-in-ukraine](https://github.com/collections/made-in-ukraine) - another collection of popular open source projects built-in or receiving significant contributions from Ukraine.
+
+#### Licensing:
+- [Fair-code](https://faircode.io) - fair-code is not a software license. It describes a software model where software:
+  - is generally free to use and can be distributed by anybody
+  - has its source code openly available
+  - can be extended by anybody in public and private communities
+  - is commercially restricted by its authors
+- [Sustainable License](https://github.com/outcaste-io/sustainable-license) - is the most liberal commercial license we could create. It balances the freedoms provided by open-source software with monetization, allowing creators to earn money from their work and reinvest that back into their efforts to continue long-term development. Read more about [Sustainable License FAQ](https://manishrjain.com/sustainable-license-faq).
+- [Golang licenses checker](https://github.com/google/go-licenses) - `go-licenses` analyzes the dependency tree of a Go package/binary. It can output a report on the libraries used and under what license they can be used. It can also collect all license documents, copyright notices, and source code into a directory to comply with license terms on redistribution.
