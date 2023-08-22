@@ -2,7 +2,8 @@
 
 #### Go (golang) packages:
 
-- [go-app](https://github.com/dmitrymomot/go-app) - golang template for quick start of a new application.
+- [go-smart-monolith](https://github.com/dmitrymomot/go-smart-monolith) - an example of a monolithic application built ready for microservice architecture.
+- [go-app](https://github.com/dmitrymomot/go-app) - [DEPRECATED] golang template for quick start of a new application.
 - [go-utils](https://github.com/dmitrymomot/go-utils) - some useful helpers I have collected for years and used in each project.
 - [go-pkg](https://github.com/dmitrymomot/go-pkg) - another collection of code parts to speed up development, for example, an HTTP server with a graceful shutdown, cqrs facade, etc.
 - [oauth2-server](https://github.com/dmitrymomot/oauth2-server) - this is a simple OAuth2 server implementation in Go with some useful buns such as sign-in/sign-up/password recovery flows, API to manage user data and clients, token revocation, and introspection.
