@@ -16,6 +16,7 @@
 - [The Algorithms](https://github.com/TheAlgorithms) - algorithms implementation in different languages, including [go](https://github.com/TheAlgorithms/Go).
 - [roadmap.sh](https://roadmap.sh) - is a community effort to create roadmaps, guides, and other educational content to help developers pick up the path and guide their learnings.
 - [Awesome Go Educations](https://mehdihadeli.github.io/awesome-go-education/) - a curated list of awesome articles and resources for learning and practicing Golang and its related technologies.
+- [go-resiliency](https://github.com/eapache/go-resiliency) - resiliency patterns for golang (circuit-breaker, semaphore, deadline, batching, retriable).
 
 #### Tools:
 
