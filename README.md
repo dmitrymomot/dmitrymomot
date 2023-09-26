@@ -18,13 +18,14 @@
 - [roadmap.sh](https://roadmap.sh) - is a community effort to create roadmaps, guides, and other educational content to help developers pick up the path and guide their learnings.
 - [Awesome Go Educations](https://mehdihadeli.github.io/awesome-go-education/) - a curated list of awesome articles and resources for learning and practicing Golang and its related technologies.
 - [go-resiliency](https://github.com/eapache/go-resiliency) - resiliency patterns for golang (circuit-breaker, semaphore, deadline, batching, retriable).
+- [failsafe-go](https://github.com/failsafe-go/failsafe-go) - is a library for building fault-tolerant Go applications. It works by wrapping executable logic with one or more resilience policies, which can be combined and composed as needed. Policies include Retry, Circuit Breaker, Rate Limiter, Timeout, Bulkhead, and Fallback.
 
 #### Tools:
 
 - [sqlc](https://github.com/kyleconroy/sqlc) - generates type-safe code from SQL.
 - [sql-migrate](https://github.com/rubenv/sql-migrate) - SQL schema migration tool for Go. It can be used as a CLI tool and a library in your app.
 - [mage](github.com/magefile/mage) - it's a make-like build tool using Go. You write plain-old go functions, and Mage automatically uses them as Makefile-like runnable targets.
-- [tldraw](https://www.tldraw.com) - it's a collaborative digital whiteboard. You can use tldraw to create a drop-in whiteboard for your product or as the foundation on which [to build](https://tldraw.dev) your own infinite canvas applications. The project is open-source, repository with code is [here](https://github.com/tldraw/tldraw).
+- [tldraw](https://www.tldraw.com) - it's a collaborative digital whiteboard. You can use tldraw to create a drop-in whiteboard for your product or as the foundation on which [to build](https://tldraw.dev) your own infinite canvas applications. The project is open-source, and the repository with code is [here](https://github.com/tldraw/tldraw).
 - [go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - this library allows you to auto-generate C4 component diagrams out from the Golang code. A good example [here](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/tree/master/tools/c4).
 
 #### Made in Ukraine 🇺🇦 
@@ -32,10 +33,10 @@
 - [collections/made-in-ukraine](https://github.com/collections/made-in-ukraine) - another collection of popular open source projects built-in or receiving significant contributions from Ukraine.
 
 #### Licensing:
-- [Fair-code](https://faircode.io) - fair-code is not a software license. It describes a software model where software:
+- [Fair-code](https://faircode.io) is not a software license. It describes a software model where software:
   - is generally free to use and can be distributed by anybody
   - has its source code openly available
   - can be extended by anybody in public and private communities
   - is commercially restricted by its authors
 - [Sustainable License](https://github.com/outcaste-io/sustainable-license) - is the most liberal commercial license we could create. It balances the freedoms provided by open-source software with monetization, allowing creators to earn money from their work and reinvest that back into their efforts to continue long-term development. Read more about [Sustainable License FAQ](https://manishrjain.com/sustainable-license-faq).
-- [Golang licenses checker](https://github.com/google/go-licenses) - `go-licenses` analyzes the dependency tree of a Go package/binary. It can output a report on the libraries used and under what license they can be used. It can also collect all license documents, copyright notices, and source code into a directory to comply with license terms on redistribution.
+- [Golang licenses checker](https://github.com/google/go-licenses) - `go-licenses` analyzes the dependency tree of a Go package/binary. It can report the libraries used and under what license they can be used. It can also collect all license documents, copyright notices, and source code into a directory to comply with license terms on redistribution.
