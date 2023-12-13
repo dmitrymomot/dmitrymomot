@@ -27,6 +27,7 @@
 - [mage](github.com/magefile/mage) - it's a make-like build tool using Go. You write plain-old go functions, and Mage automatically uses them as Makefile-like runnable targets.
 - [tldraw](https://www.tldraw.com) - it's a collaborative digital whiteboard. You can use tldraw to create a drop-in whiteboard for your product or as the foundation on which [to build](https://tldraw.dev) your own infinite canvas applications. The project is open-source, and the repository with code is [here](https://github.com/tldraw/tldraw).
 - [go-structurizr](https://github.com/krzysztofreczek/go-structurizr) - this library allows you to auto-generate C4 component diagrams out from the Golang code. A good example [here](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/tree/master/tools/c4).
+- [Go Recipes](https://github.com/nikolaydubina/go-recipes) - a collection of tools for Go projects.
 
 #### Made in Ukraine 🇺🇦 
 - [chernivtsijs/made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) - curating the best projects that were made and heavily contributed to by Ukrainian developers.
