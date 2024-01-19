@@ -8,6 +8,7 @@
 - [httpserver](https://github.com/dmitrymomot/httpserver) - The `httpserver` package in Go offers a simple and efficient solution for creating, running, and gracefully shutting down HTTP servers, with support for context cancellation and concurrent execution.
 - [go-smart-monolith](https://github.com/dmitrymomot/go-smart-monolith) - an example of a monolithic application built ready for microservice architecture.
 - [oauth2-server](https://github.com/dmitrymomot/oauth2-server) - this is a simple OAuth2 server implementation in Go with some useful buns such as sign-in/sign-up/password recovery flows, API to manage user data and clients, token revocation, and introspection.
+- [mongo-repository](https://github.com/dmitrymomot/mongo-repository) - this Go package provides a generic, extensible MongoDB repository with advanced CRUD operations, flexible querying capabilities, and support for common MongoDB patterns. It is designed to simplify the interaction with MongoDB using Go's standard library and the official MongoDB Go driver.
 
 #### Theory:
 
