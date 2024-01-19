@@ -7,8 +7,6 @@
 - [mailer](https://github.com/dmitrymomot/mailer) - is an email queue processor that exemplifies provider-agnostic versatility in its design.
 - [httpserver](https://github.com/dmitrymomot/httpserver) - The `httpserver` package in Go offers a simple and efficient solution for creating, running, and gracefully shutting down HTTP servers, with support for context cancellation and concurrent execution.
 - [go-smart-monolith](https://github.com/dmitrymomot/go-smart-monolith) - an example of a monolithic application built ready for microservice architecture.
-- [go-utils](https://github.com/dmitrymomot/go-utils) - some useful helpers I have collected for years and used in each project.
-- [go-pkg](https://github.com/dmitrymomot/go-pkg) - another collection of code parts to speed up development, for example, an HTTP server with a graceful shutdown, cqrs facade, etc.
 - [oauth2-server](https://github.com/dmitrymomot/oauth2-server) - this is a simple OAuth2 server implementation in Go with some useful buns such as sign-in/sign-up/password recovery flows, API to manage user data and clients, token revocation, and introspection.
 
 #### Theory:
