@@ -10,6 +10,7 @@
 - [oauth2-server](https://github.com/dmitrymomot/oauth2-server) - this is a simple OAuth2 server implementation in Go with some useful buns such as sign-in/sign-up/password recovery flows, API to manage user data and clients, token revocation, and introspection.
 - [mongo-repository](https://github.com/dmitrymomot/mongo-repository) - this Go package provides a generic, extensible MongoDB repository with advanced CRUD operations, flexible querying capabilities, and support for common MongoDB patterns. It is designed to simplify the interaction with MongoDB using the official MongoDB Go driver.
 - [filemanager](https://github.com/dmitrymomot/filemanager) - package provides a convenient way to interact with AWS S3 or S3-compatible storage services in Go. It simplifies common operations such as uploading files from various sources and removing files from S3 buckets.
+- [clientip](https://github.com/dmitrymomot/clientip) - provides functionality to accurately determine a client's IP address from HTTP requests, considering various headers that might contain the real IP address, especially when your application is behind a proxy or load balancer.
 
 #### Theory:
 
