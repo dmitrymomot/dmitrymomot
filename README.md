@@ -11,6 +11,7 @@
 - [mongo-repository](https://github.com/dmitrymomot/mongo-repository) - this Go package provides a generic, extensible MongoDB repository with advanced CRUD operations, flexible querying capabilities, and support for common MongoDB patterns. It is designed to simplify the interaction with MongoDB using the official MongoDB Go driver.
 - [filemanager](https://github.com/dmitrymomot/filemanager) - package provides a convenient way to interact with AWS S3 or S3-compatible storage services in Go. It simplifies common operations such as uploading files from various sources and removing files from S3 buckets.
 - [clientip](https://github.com/dmitrymomot/clientip) - provides functionality to accurately determine a client's IP address from HTTP requests, considering various headers that might contain the real IP address, especially when your application is behind a proxy or load balancer.
+- [go-signature](https://github.com/dmitrymomot/go-signature) - this library converts any given data into a base64 string, signs it with a secret key.
 - [go-app-template](https://github.com/dmitrymomot/go-app-template) - **[WIP]**: A full-stack app template based on Golang and featuring TailwindCSS for styling, HTMX for dynamic UIs, TursoDB for efficient data management, and Templ for component-style templating (similar to ReactJs), streamlining web development workflows.
 
 #### Theory:
