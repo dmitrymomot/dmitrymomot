@@ -14,6 +14,7 @@
 - [go-signature](https://github.com/dmitrymomot/go-signature) - this library converts any given data into a base64 string, signs it with a secret key.
 - [email helpers](https://github.com/dmitrymomot/email) - provides comprehensive utilities for validating and sanitizing email addresses. It includes functions to validate email formats, check domain blacklists, sanitize email addresses, and more.
 - [pgready](https://github.com/dmitrymomot/pgready) - a simple command-line utility to check if a PostgreSQL database is ready to accept connections.
+- [templatex](https://github.com/dmitrymomot/templatex) - a flexible and powerful Go template engine with support for layouts, internationalization (i18n), and useful template functions.
 
 #### Theory:
 
