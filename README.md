@@ -49,3 +49,12 @@
   - is commercially restricted by its authors
 - [Sustainable License](https://github.com/outcaste-io/sustainable-license) - is the most liberal commercial license we could create. It balances the freedoms provided by open-source software with monetization, allowing creators to earn money from their work and reinvest that back into their efforts to continue long-term development. Read more about [Sustainable License FAQ](https://manishrjain.com/sustainable-license-faq).
 - [Golang licenses checker](https://github.com/google/go-licenses) - `go-licenses` analyzes the dependency tree of a Go package/binary. It can report the libraries used and under what license they can be used. It can also collect all license documents, copyright notices, and source code into a directory to comply with license terms on redistribution.
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dmitrymomot?pet-id=654350926921459464"
+    width="600"
+    height="120"
+  />
+</a>
