@@ -52,7 +52,8 @@ Selected packages demonstrating production-ready Go development:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitrymomot&show_icons=true&theme=light&hide_border=true)
+![dmitrymomot's Stats](https://github-readme-stats.vercel.app/api?username=dmitrymomot&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![dmitrymomot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrymomot&theme=dark&hide_border=true)
 
 ## 📚 Resources & Tools
 
