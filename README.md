@@ -50,11 +50,6 @@ Selected packages demonstrating production-ready Go development:
 - ✅ Available for remote consulting engagements
 - 🎯 Focus: High-scale systems, Go development, technical leadership
 
-## 📊 GitHub Statistics
-
-![dmitrymomot's Stats](https://github-readme-stats.vercel.app/api?username=dmitrymomot&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![dmitrymomot's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmitrymomot&theme=dark&hide_border=true)
-
 ## 📚 Resources & Tools
 
 <details>
