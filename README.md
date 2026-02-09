@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrymomot)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://dmomot.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dmitry_momot)
+[![X.com](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dmitry_momot)
 
 
 15+ years building and scaling software systems. I help companies make good technical decisions and ship reliable products. Based in Southeast Asia, working globally.
