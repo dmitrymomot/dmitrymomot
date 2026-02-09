@@ -11,7 +11,7 @@
 
 ---
 
-## 🔥 Forge
+## 🔥 [Forge](https://github.com/dmitrymomot/forge)
 
 My current focus — an opinionated Go framework for building B2B micro-SaaS applications. Ship fast, stay solo-sustainable.
 
