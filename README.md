@@ -1,19 +1,31 @@
 # Dmytro Momot
 
-**Technology Consultant · Systems Architect · Go Developer**
+**Technology Consultant · Systems Architect · Go & Rust Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrymomot)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://dmomot.com)
 [![X.com](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dmitry_momot)
 
-
 15+ years building and scaling software systems. I help companies make good technical decisions and ship reliable products. Based in Southeast Asia, working globally.
 
 ---
 
+## 🦀 [Modo](https://github.com/dmitrymomot/modo)
+
+A batteries-included Rust framework for small monolithic web apps and APIs. Single binary, SQLite-only, maximum compile-time magic.
+
+[![GitHub](https://img.shields.io/github/stars/dmitrymomot/modo?style=social)](https://github.com/dmitrymomot/modo)
+[![CI](https://github.com/dmitrymomot/modo/actions/workflows/ci.yml/badge.svg)](https://github.com/dmitrymomot/modo/actions/workflows/ci.yml)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/dmitrymomot/modo/blob/main/LICENSE)
+
+- **Proc-macro driven** — `#[modo::handler]` and `#[modo::main]` for zero-boilerplate routing
+- **Auto-discovery** — handlers register themselves via `inventory`, no manual router wiring
+- **Module system** — group routes with shared prefixes and middleware via `#[modo::module]`
+- **Built on axum 0.8** — SeaORM v2, CSRF, flash messages, HTMX support
+
 ## 🔥 [Forge](https://github.com/dmitrymomot/forge)
 
-My current focus — an opinionated Go framework for building B2B micro-SaaS applications. Ship fast, stay solo-sustainable.
+An opinionated Go framework for building B2B micro-SaaS applications. Ship fast, stay solo-sustainable.
 
 [![GitHub](https://img.shields.io/github/stars/dmitrymomot/forge?style=social)](https://github.com/dmitrymomot/forge)
 [![Go Reference](https://pkg.go.dev/badge/github.com/dmitrymomot/forge.svg)](https://pkg.go.dev/github.com/dmitrymomot/forge)
@@ -33,7 +45,7 @@ I take on select remote engagements:
 - **Engineering leadership** — team scaling, process, code audits
 - **Go development** — hands-on building when it matters
 
-`Go` `PostgreSQL` `Redis` `Docker` `Kubernetes` `AWS` `gRPC` `REST`
+`Go` `Rust` `PostgreSQL` `SQLite` `Redis` `Docker` `Kubernetes` `AWS` `gRPC` `REST`
 
 → [dmomot.com](https://dmomot.com)
 
