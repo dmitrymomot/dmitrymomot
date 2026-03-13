@@ -1,6 +1,6 @@
 # Dmytro Momot
 
-**Technology Consultant · Systems Architect · Go & Rust Developer**
+**Technology Consultant · Systems Architect · Go Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrymomot)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://dmomot.com)
